@@ -9,7 +9,6 @@ public class App {
         System.out.println("//// ------- Bem Vindo(a) Agência Senai ------- ////");
 
         Menu menu = new Menu();
-
         menu.executarMenu();
 
     }
